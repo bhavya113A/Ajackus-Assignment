@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -71,3 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 Create a user input feild. Where user can add or update the feild. Added styling for this field.
+=======
+# Ajackus-Assignment
+Made a User Management Dashboard, Where users can view, add, edit, and delete user details from a mock backend API.
+>>>>>>> 40a8333c23882e0085153c8d2f85fd1bf511fed5

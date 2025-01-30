@@ -1,9 +1,3 @@
-=======
-# Ajackus-Assignment
-Made a User Management Dashboard, Where users can view, add, edit, and delete user details from a mock backend API.
-<<<<<<< HEAD
->>>>>>> 40a8333c23882e0085153c8d2f85fd1bf511fed5
-
 # Ajackus-Assignment
 
 # **User Management Dashboard**

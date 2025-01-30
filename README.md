@@ -27,5 +27,3 @@ This is a React-based User Management Dashboard where users can be added, edited
 - Users can be added through a form that updates the local state.
 - Editing and deleting users will update the state and make the corresponding API call.
 - Pagination allows users to navigate through different pages of users.
-=======
->>>>>>> e5a1ebc3858af7a2fbb5bf53722bb67e35be35dc
